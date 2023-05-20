@@ -14,7 +14,7 @@ To use or contribute to this project, please follow these steps:
 **Clone the repository:**
 
 ```
-git clone https://github.com/Somaya1200/githubpages.git
+git clone https://github.com/Somaya1200/Somaya1200.git
 ```
 
 **Navigate to the project directory:**
