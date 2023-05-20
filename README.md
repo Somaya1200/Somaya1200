@@ -20,7 +20,7 @@ git clone https://github.com/Somaya1200/Somaya1200.git
 **Navigate to the project directory:**
 
 ```
-cd githubpages
+cd github
 ```
 
 **Contributing**
@@ -31,7 +31,7 @@ I welcome contributions from the community! If you'd like to contribute to this 
 Create a new branch:**
 
 ```
-git checkout -b [branch name]
+git checkout -b main
 ```
 
 Make your changes and commit them
