@@ -14,13 +14,13 @@ To use or contribute to this project, please follow these steps:
 **Clone the repository:**
 
 ```
-git clone https://github.com/Somaya1200/Somaya1200.git
+git clone https://github.com/Somaya1200/githubpages.git
 ```
 
 **Navigate to the project directory:**
 
 ```
-cd github
+cd githubpages
 ```
 
 **Contributing**
@@ -38,6 +38,10 @@ Make your changes and commit them
 Push your changes to your forked repository
 Submit a **pull request** detailing your changes
 Please ensure that your contributions align with our code of conduct.
+
+**result on githubpages**
+
+https://somaya1200.github.io/githubpages
 
 **License**
 
