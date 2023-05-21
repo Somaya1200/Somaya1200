@@ -6,7 +6,7 @@
 
 #### **Description**
 
-This repository contains the source code and documentation for **GIT and Markdown**. It is a GitHub Pages-based project that aims to [demonstrade the creation of this kind of pages].
+This repository contains the source code and documentation for **GIT and Markdown**.
 
 Installation
 To use or contribute to this project, please follow these steps:
@@ -25,7 +25,7 @@ cd githubpages
 
 **Contributing**
 
-I welcome contributions from the community! If you'd like to contribute to this project, please follow these guidelines:
+If you'd like to contribute to this project, please follow these guidelines:
 
 **Fork the repository
 Create a new branch:**
@@ -45,18 +45,14 @@ https://somaya1200.github.io/githubpages
 
 **License**
 
-This project is licensed under the **GPL**. For more information, please see the LICENSE file.
+This project is licensed under the **MIT**. For more information, please see the LICENSE file.
 
 **Contact**
 
-If you have any questions, suggestions, or feedback, please feel free to contact us at somaya.rezai@etu.unige.ch
+If you have any questions, suggestions, or feedback, please feel free to contact me at somaya.rezai@etu.unige.ch
 
 **Acknowledgements**
 
-I would like to express my gratitude to the following individuals and projects for their contributions and inspiration:
-
-- person1@etu.unige.ch
-- person2@etu.unige.ch
-- person2@etu.unige.ch
 
 Thank you for your interest and support in _**githubpages**_
+Please give me a ⭐
