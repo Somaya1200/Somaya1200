@@ -54,5 +54,5 @@ If you have any questions, suggestions, or feedback, please feel free to contact
 **Acknowledgements**
 
 
-Thank you for your interest and support in _**githubpages**_
+Thank you for your interest and support in _**githubpages**_.
 Please give me a ⭐
